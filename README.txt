@@ -14,4 +14,10 @@ Información basica para ejecutar el programa:
     from tkinter import scrolledtext
     from tkinter import messagebox
 - Los archivos que estan en la carpeta codigo_fuente tienen que estar todos en una misma carpeta. 
+- Como los algoritmos se encuentra cada uno en un archivo se necesitan los siguientes comandos para que funcione correctamenta:
+    from vigener import main
+    from vernan import vernan
+    from solitario import solit
+    from cesar import cesar
+    from personalizado import perso
 - Ejecutar el que se llama menu.pyw
