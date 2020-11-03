@@ -8,13 +8,13 @@ Objetivo: Programa que permite al usuario encriptar/desencriptar un mensaje en b
 
 Información basica para ejecutar el programa:
 - El programa necesita las siguientes librerias : Tkinter, de esta se usaron: ttk, scrolledtext, messagebox.
-- Para instalar las librerias se usan los siguientes comandos:
+- Para llamar las librerias se usan los siguientes comandos:
     import tkinter as tk
     from tkinter import ttk
     from tkinter import scrolledtext
     from tkinter import messagebox
 - Los archivos que estan en la carpeta codigo_fuente tienen que estar todos en una misma carpeta. 
-- Como los algoritmos se encuentran cada uno en un archivo, se necesitan los siguientes comandos para que funcione correctamente:
+- Como los algoritmos se encuentran cada uno en un archivo, se necesitan usar los siguientes comandos para que funcione correctamente:
     from vigener import main
     from vernan import vernan
     from solitario import solit
