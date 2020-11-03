@@ -14,7 +14,7 @@ Información basica para ejecutar el programa:
     from tkinter import scrolledtext
     from tkinter import messagebox
 - Los archivos que estan en la carpeta codigo_fuente tienen que estar todos en una misma carpeta. 
-- Como los algoritmos se encuentran cada uno en un archivo, se necesitan usar los siguientes comandos para que funcione correctamente:
+- Como los algoritmos se encuentran cada uno en un archivo, se necesitan usar los siguientes comandos para llamar las funciones correspondientes y  que funcione correctamente:
     from vigener import main
     from vernan import vernan
     from solitario import solit
