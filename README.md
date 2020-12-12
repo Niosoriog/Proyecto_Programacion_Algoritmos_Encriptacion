@@ -1,4 +1,4 @@
-Nombre proyecto: PyCript V.1.0
+ #Nombre proyecto: PyCript V.1.0
 Grupo #3
 Integrantes:
 1. Pablo José Florez Gomez
@@ -7,6 +7,7 @@ Integrantes:
 Objetivo: Programa que permite al usuario encriptar/desencriptar un mensaje en base a diversos algortimos de encriptacion, de lo cuales el usuario elegira el de su preferencia.
 
 Información basica para ejecutar el programa:
+
 - El programa necesita las siguientes librerias : Tkinter, de esta se usaron: ttk, scrolledtext, messagebox.
 - Para llamar las librerias se usan los siguientes comandos:
     import tkinter as tk
