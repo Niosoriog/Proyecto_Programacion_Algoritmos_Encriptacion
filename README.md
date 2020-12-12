@@ -14,7 +14,7 @@
 
 - intalar las librerias que se encuentran en requirements.txt con el siguiente comando:
 
-<b>  pip install -r requirements.txt <b>
+-   <b>  pip install -r requirements.txt <b>
  
  
 - El programa necesita las siguientes librerias : 
