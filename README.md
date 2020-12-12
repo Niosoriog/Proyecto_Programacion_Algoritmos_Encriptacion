@@ -16,4 +16,8 @@
  
 - Los archivos que estan en la carpeta codigo_fuente, recursor y archivos tienen que estar todos en una misma carpeta para evitar problemas con los archivos. 
 
-- Ejecutar el que se llama menu.pyw
+- Ejecutar el que se llama login.pyw
+
+- Registrarse por primera vez y empezar a usar el programa.
+
+
