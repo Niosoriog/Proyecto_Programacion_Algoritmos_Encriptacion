@@ -10,9 +10,15 @@
 
 # Información basica para ejecutar el programa:
 
-<b> - Ejercutar el archivo Python create_base.py cuando se va a abrir por primera vez el proyecto. <b>
+- Ejercutar el archivo Python create_base.py cuando se va a abrir por primera vez el proyecto.
 
-- El programa necesita las siguientes librerias : Tkinter, de esta se usaron: ttk, scrolledtext, messagebox.
+- intalar las librerias que se encuentran en requirements.txt con el siguiente comando:
+
+<b>  pip install -r requirements.txt <b>
+ 
+ 
+- El programa necesita las siguientes librerias : 
+  Tkinter, de esta se usaron: ttk, scrolledtext, messagebox, .
 - Para llamar las librerias se usan los siguientes comandos:
     import tkinter as tk
     from tkinter import ttk
