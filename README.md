@@ -29,9 +29,19 @@
   ![click](/recursor/images_Readme/imagen3.png)
   
 # Ingresar :
+
    ![click](/recursor/images_Readme/imagen2.png)
    
 # Interfaz del menu :
 
    ![click](/recursor/images_Readme/imagen4.png)
+   
+# Interfaces de algunos algoritmos :
+
+## Algoritmo Vigener:
+
+![click](/recursor/images_Readme/imagen5.png)
+
+## Algoritmo asimetrico RSA:
+
    
