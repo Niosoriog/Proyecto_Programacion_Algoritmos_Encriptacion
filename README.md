@@ -1,4 +1,4 @@
- #Nombre proyecto: PyCript V.1.0
+ # Nombre proyecto: PyCript V.2.0
 Grupo #3
 Integrantes:
 1. Pablo José Florez Gomez
