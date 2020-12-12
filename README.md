@@ -20,4 +20,6 @@
 
 - Registrarse por primera vez y empezar a usar el programa.
 
+# Interfaz del login :
 
+  ![click](/recursor/images_Readme/readme1.png)
