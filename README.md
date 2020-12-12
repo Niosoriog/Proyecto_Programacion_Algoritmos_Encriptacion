@@ -10,7 +10,7 @@
 
 # Información basica para ejecutar el programa:
 
-- Ejercutar el archivo Python create_base.py cuando se va a abrir por primera vez el proyecto.
+- Ejercutar el archivo Python create_base.py cuando se va a abrir el programa por primera vez el proyecto.
 
 - intalar las librerias que se encuentran en requirements.txt con el siguiente comando:    **pip install -r requirements.txt**
  
