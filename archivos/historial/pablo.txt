@@ -1,0 +1,26 @@
+Fecha: 12/11/2020, 22:35:00
+mensaje original: NTNC R[SFQ
+clave: pollo
+mensaje encriptado: hola mundo
+
+Fecha: 12/11/2020, 22:39:19
+mensaje original: hola
+clave: mundo
+mensaje encriptado: KZP;
+
+Fecha: 12/11/2020, 22:39:28
+mensaje original: KZP;
+clave: mundo
+mensaje encriptado: hola
+
+Fecha: 12/11/2020, 22:40:27
+mensaje original: hola
+clave: 2
+mensaje encriptado: jqnc
+
+Fecha: 12/11/2020, 22:41:22
+mensaje original: hola mundo
+clave: pollo
+mensaje encriptado: xEwmoCKyoE
+
+
