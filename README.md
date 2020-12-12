@@ -18,7 +18,9 @@
 
 - Ejecutar el que se llama login.pyw
 
-- Registrarse por primera vez y empezar a usar el programa.
+- Registrarse por primera vez e iniciar sesión en el programa
+
+- Utilizar el programa
 
 # Interfaz del login :
 
