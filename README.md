@@ -8,7 +8,7 @@
   
 <b>Objetivo<b>: Programa que permite al usuario encriptar/desencriptar un mensaje en base a diversos algortimos de encriptacion, de lo cuales el usuario elegira el de su preferencia.
 
-Información basica para ejecutar el programa:
+# Información basica para ejecutar el programa:
 
 - El programa necesita las siguientes librerias : Tkinter, de esta se usaron: ttk, scrolledtext, messagebox.
 - Para llamar las librerias se usan los siguientes comandos:
