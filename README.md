@@ -14,18 +14,6 @@
 
 - intalar las librerias que se encuentran en requirements.txt con el siguiente comando:    **pip install -r requirements.txt**
  
-- El programa necesita las siguientes librerias : 
-  Tkinter, de esta se usaron: ttk, scrolledtext, messagebox, .
-- Para llamar las librerias se usan los siguientes comandos:
-    import tkinter as tk
-    from tkinter import ttk
-    from tkinter import scrolledtext
-    from tkinter import messagebox
-- Los archivos que estan en la carpeta codigo_fuente tienen que estar todos en una misma carpeta. 
-- Como los algoritmos se encuentran cada uno en un archivo, se necesitan usar los siguientes comandos para llamar las funciones correspondientes y  que funcione correctamente:
-    from vigener import main
-    from vernan import vernan
-    from solitario import solit
-    from cesar import cesar
-    from personalizado import perso
+- Los archivos que estan en la carpeta codigo_fuente, recursor y archivos tienen que estar todos en una misma carpeta para evitar problemas con los archivos. 
+
 - Ejecutar el que se llama menu.pyw
