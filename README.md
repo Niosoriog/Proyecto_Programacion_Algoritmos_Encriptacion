@@ -14,8 +14,7 @@
 
 - intalar las librerias que se encuentran en requirements.txt con el siguiente comando:
 
--- <b>  pip install -r requirements.txt <b>
- 
+-   **pip install -r requirements.txt** 
  
 - El programa necesita las siguientes librerias : 
   Tkinter, de esta se usaron: ttk, scrolledtext, messagebox, .
