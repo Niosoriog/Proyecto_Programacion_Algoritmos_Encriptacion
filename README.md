@@ -23,3 +23,15 @@
 # Interfaz del login :
 
   ![click](/recursor/images_Readme/readme1.png)
+
+# Registro :
+
+  ![click](/recursor/images_Readme/imagen3.png)
+  
+# Ingresar :
+   ![click](/recursor/images_Readme/imagen2.png)
+   
+# Interfaz del menu :
+
+   ![click](/recursor/images_Readme/imagen4.png)
+   
