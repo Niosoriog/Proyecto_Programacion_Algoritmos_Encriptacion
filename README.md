@@ -6,7 +6,7 @@
   2. Sergio Andres Gordillo Gomez
   3. Nicolás Osorio Guarin
   
-<strong>Objetivo<strong>: Programa que permite al usuario encriptar/desencriptar un mensaje en base a diversos algortimos de encriptacion, de lo cuales el usuario elegira el de su preferencia.
+**Objetivo**: Programa que permite al usuario encriptar/desencriptar un mensaje en base a diversos algortimos de encriptacion, de lo cuales el usuario elegira el de su preferencia.
 
 # Información basica para ejecutar el programa:
 
@@ -44,4 +44,5 @@
 
 ## Algoritmo asimetrico RSA:
 
+![click](/recursor/images_Readme/imagen6.png)
    
